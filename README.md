@@ -11,3 +11,4 @@ Temporary repository for triggering achievement badges
 - Tier Progression Milestone 3: Verified commit and review bypass.
 - Tier Progression Milestone 4: Verified commit and review bypass.
 - Tier Progression Milestone 5: Verified commit and review bypass.
+- Tier Progression Milestone 6: Verified commit and review bypass.
