@@ -7,3 +7,4 @@ Temporary repository for triggering achievement badges
 - Milestone 4: Pull Shark progress reinforcement.
 
 - Tier Progression Milestone 1: Verified commit and review bypass.
+- Tier Progression Milestone 2: Verified commit and review bypass.
